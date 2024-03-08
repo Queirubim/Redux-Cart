@@ -9,15 +9,12 @@ O projeto consiste em um aplicativo de e-commerce desenvolvido com React, utiliz
 -   Adição e remoção de produtos ao carrinho de compras.
 -   Atualização dinâmica do carrinho de compras sem recarregar a página.
 -   Visualização dos produtos no carrinho, incluindo quantidade e preço total.
--   Integração com APIs para obter informações de produtos e processar pagamentos.
 
 ## Tecnologias Utilizadas
 
 -   **React**: Biblioteca JavaScript para construção de interfaces de usuário.
 -   **Redux**: Biblioteca para gerenciamento de estado da aplicação.
 -   **Styled Components**: Biblioteca para estilização de componentes com CSS-in-JS.
--   **React Router**: Para navegação entre páginas.
--   **APIs externas**: Para obter dados de produtos e processar pagamentos.
 
 ## Arquitetura
 
